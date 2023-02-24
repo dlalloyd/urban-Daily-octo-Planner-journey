@@ -7,8 +7,8 @@ SO THAT I can manage my time effectively
 
 
 ## Mock up
-![password generator demo](./assets/password-generator-pic1.png)
-![password generator demo](./assets/password-generator-pic2.png)
+![password generator demo](./assets/images/To-do%20app%20screenshot%201.png)
+![password generator demo](./assets/images/To-do%20app%20Screenshot%202.png)
 
 
 
